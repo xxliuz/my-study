@@ -1,11 +1,11 @@
-package com.example.test.juc;
+package juc;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 /**
  * @Author: zhou.liu
- * @Date: 2022/4/24 10:02
+ * @Date: 2022/4/24 17:33
  * @Description:
  */
 public class FutureTest {
